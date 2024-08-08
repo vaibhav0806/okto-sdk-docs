@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Okto React SDK',
-  tagline: 'Fully Expressive Orchestration Layer',
+  tagline: 'Onboard web2 users to web3 in less than ten minutes🚀',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
